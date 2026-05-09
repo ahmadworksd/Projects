@@ -1,11 +1,11 @@
-# Task Manager Web App - Ahmad
+# Task Manager Web App 
 
 ## Overview
 
 Welcome to the Task Manager Web App repository! This project provides a responsive web-based task manager that allows users to create, manage, prioritize, and track tasks efficiently.
 
 <h1 align="center">
-  👉<a href=">Live Demo</a>
+  👉<a href="https://ahmad-taskmanager.netlify.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
 </h1>
 
 ## Features
@@ -30,6 +30,7 @@ Welcome to the Task Manager Web App repository! This project provides a responsi
 - A modern web browser
 
 
+
 Usage
 To add a new task, type the task description and press Enter or click the "Add Task" button.
 Prioritize tasks by moving the most important ones to the top.
@@ -39,7 +40,5 @@ Contributions
 Contributions are welcome! If you'd like to improve this project or fix any issues, please fork the repository and submit a pull request.
 
 
-Contact
-If you have any questions or suggestions, feel free to contact us.
 
-Happy task managing! 🚀
+Happy task managing! Thank you
