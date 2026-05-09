@@ -1,26 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+Task Manager Web App 📝✅
+Overview
+Welcome to the Task Manager Web App repository! This project provides a responsive web-based task manager that allows users to create, manage, prioritize, and track tasks efficiently.
 
-    <link rel="stylesheet" href="styles.css">
-    <title>SM-Task Manager</title>
-</head>
-<body>
-    <div class="container">
-        <h1 class="title"> Ahmad - Task Manager</h1>
-        <div class="task-form">
-            <input type="text" id="task-input" placeholder="Enter a new task..." class="task-input">
-            <button id="add-task-btn" class="add-task-btn">Add Task</button>
-        </div>
-        <ul id="task-list" class="task-list"></ul>
-      <center><button id="clear-all-btn" class="clear-all-btn">Clear All</button>
-        <p><b>Made with ❤️ by Mr. Ahmad</b></p>
-      </center>
-      
-    </div>
-    <script src="script.js"></script>
-</body>
-</html>
+Features
+Task Creation: Easily add new tasks with a user-friendly input field.
+Task Prioritization: Prioritize your tasks to stay organized.
+Completion Tracking: Mark tasks as completed with a single click.
+Task Removal: Remove completed or unwanted tasks from the list.
+Responsive Design: Enjoy a seamless experience on various devices and screen sizes.
+Technologies Used
+HTML
+CSS
+JavaScript
+Getting Started
+Prerequisites
+GitHub
+A modern web browser
+Installation
+Clone the repository to your local machine:
+
+git clone https://github.com/your-username/task-manager-web-app.git
+Open the project folder in your code editor.
+
+Launch the index.html file in your web browser to start using the Task Manager.
+
+Usage To add a new task, type the task description and press Enter or click the "Add Task" button. Prioritize tasks by moving the most important ones to the top. Mark tasks as completed by clicking the "Completed" button. Remove tasks by clicking the "Delete" button. Contributions Contributions are welcome! If you'd like to improve this project or fix any issues, please fork the repository and submit a pull request.
+
+Contact If you have any questions or suggestions, feel free to contact us.
+
+Happy task managing! 🚀
