@@ -1,31 +1,45 @@
-Task Manager Web App 📝✅
-Overview
+# Task Manager Web App - Ahmad
+
+## Overview
+
 Welcome to the Task Manager Web App repository! This project provides a responsive web-based task manager that allows users to create, manage, prioritize, and track tasks efficiently.
 
-Features
-Task Creation: Easily add new tasks with a user-friendly input field.
-Task Prioritization: Prioritize your tasks to stay organized.
-Completion Tracking: Mark tasks as completed with a single click.
-Task Removal: Remove completed or unwanted tasks from the list.
-Responsive Design: Enjoy a seamless experience on various devices and screen sizes.
-Technologies Used
-HTML
-CSS
-JavaScript
-Getting Started
-Prerequisites
-GitHub
-A modern web browser
-Installation
-Clone the repository to your local machine:
+<h1 align="center">
+  👉<a href=">Live Demo</a>
+</h1>
 
-git clone https://github.com/your-username/task-manager-web-app.git
-Open the project folder in your code editor.
+## Features
 
-Launch the index.html file in your web browser to start using the Task Manager.
+- **Task Creation:** Easily add new tasks with a user-friendly input field.
+- **Task Prioritization:** Prioritize your tasks to stay organized.
+- **Completion Tracking:** Mark tasks as completed with a single click.
+- **Task Removal:** Remove completed or unwanted tasks from the list.
+- **Responsive Design:** Enjoy a seamless experience on various devices and screen sizes.
 
-Usage To add a new task, type the task description and press Enter or click the "Add Task" button. Prioritize tasks by moving the most important ones to the top. Mark tasks as completed by clicking the "Completed" button. Remove tasks by clicking the "Delete" button. Contributions Contributions are welcome! If you'd like to improve this project or fix any issues, please fork the repository and submit a pull request.
+## Technologies Used
 
-Contact If you have any questions or suggestions, feel free to contact us.
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+### Prerequisites
+
+- GitHub
+- A modern web browser
+
+
+Usage
+To add a new task, type the task description and press Enter or click the "Add Task" button.
+Prioritize tasks by moving the most important ones to the top.
+Mark tasks as completed by clicking the "Completed" button.
+Remove tasks by clicking the "Delete" button.
+Contributions
+Contributions are welcome! If you'd like to improve this project or fix any issues, please fork the repository and submit a pull request.
+
+
+Contact
+If you have any questions or suggestions, feel free to contact us.
 
 Happy task managing! 🚀
